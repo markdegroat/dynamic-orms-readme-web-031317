@@ -1,6 +1,6 @@
 require_relative "../config/environment.rb"
 require 'active_support/inflector'
-
+#I HAVE READ AND UNDERSTAND HOW DYNAMIC ORMS WORK, ADDING THIS LINE TO ALLOW COMMIT
 class Song
 
 
